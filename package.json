@@ -1,0 +1,32 @@
+{
+  "name": "hellowork",
+  "version": "1.0.0",
+  "description": "Projeto Hello World em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "hello-world",
+    "javascript"
+  ],
+  "author": "coldrenatinho",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coldrenatinho/nodejsdados.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coldrenatinho/nodejsdados/issues"
+  },
+  "homepage": "https://github.com/coldrenatinho/nodejsdados#readme"
+}
